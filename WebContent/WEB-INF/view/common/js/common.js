@@ -1,0 +1,3 @@
+clickBtn = function() {
+	alert('test');
+}
